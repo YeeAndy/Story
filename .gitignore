@@ -1,0 +1,6 @@
+serect.txt
+
+#log files
+*.log
+
+*.txt
